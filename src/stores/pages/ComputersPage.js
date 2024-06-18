@@ -4,7 +4,6 @@ import { computerData } from "../data/computers";
 
 export default function ComputersPage() {
   return (
-    
     <>
       <Navbar />
       <div className="pageSection">
